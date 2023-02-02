@@ -2,10 +2,10 @@
 <!-- Modify this file to customize your launch splash screen -->
 <layer-list xmlns:android="http://schemas.android.com/apk/res/android">
     <item>
-        <bitmap android:gravity="center" android:src="@mipmap/rwdevcon_bg"/>
+        <bitmap android:gravity="center" android:src="@mipmap/rwdevcon_bg" />
     </item>
     <item>
-        <bitmap android:gravity="center" android:src="@mipmap/razewarelogo_128"/>
+        <bitmap android:gravity="center" android:src="@mipmap/razewarelogo_128" />
     </item>
 
     <!-- You can insert your own image assets here -->
